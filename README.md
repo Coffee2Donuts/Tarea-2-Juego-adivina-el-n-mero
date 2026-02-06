@@ -1,1 +1,0 @@
-# Tarea-2-Juego-adivina-el-n-mero
